@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - The motivation for this job was to make the code more accessible for both end users and other coders
 - I built this project to reflect better semantic markup
 - Removing generic <div> tags and adding image alts created a better user experience and made the code easier to read
